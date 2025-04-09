@@ -1,0 +1,541 @@
+[2025-04-08T09:24:53.318Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T09:24:59.775Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-08T09:25:05.599Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T09:25:11.327Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T09:25:13.285Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T09:25:19.163Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-08T09:25:25.311Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T09:25:31.496Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T09:35:47.079Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T09:35:52.744Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-08T09:35:59.990Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T09:36:05.667Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T09:36:07.088Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T09:36:12.492Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-08T09:36:28.131Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T09:36:38.721Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:20:07.206Z] SELECT DISTINCT "branch name" FROM srifincredit_views.srifin_customer_master
+[2025-04-08T12:20:08.444Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T12:20:09.611Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T12:20:12.969Z] SELECT DISTINCT "branch name" FROM srifincredit_views.srifin_customer_master
+[2025-04-08T12:20:13.731Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:20:14.792Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T12:20:15.827Z] SELECT DISTINCT "Branch_ID", "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-08T12:20:18.954Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T12:20:19.482Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:20:20.158Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T12:20:20.202Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T12:20:21.270Z] SELECT DISTINCT "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-08T12:20:21.753Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T12:20:25.161Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:20:25.605Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T12:20:25.624Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:20:26.741Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T12:20:27.187Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T12:20:29.453Z] SELECT DISTINCT "Branch_ID", "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-08T12:20:30.555Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:20:31.079Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T12:20:31.091Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-08T12:20:32.169Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T12:20:34.900Z] SELECT DISTINCT "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-08T12:20:36.014Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:20:36.538Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:20:37.652Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T12:20:37.734Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T12:20:40.372Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:20:41.602Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T12:20:41.761Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T12:20:41.975Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:20:43.389Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T12:20:45.804Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:20:47.187Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T12:20:47.387Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:20:48.438Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T12:20:51.807Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:20:52.636Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T12:20:52.831Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-08T12:20:54.167Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T12:20:57.517Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:20:58.277Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:20:58.329Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T12:21:03.010Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:21:03.725Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:36:04.028Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:36:09.630Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-08T12:36:15.097Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:36:20.595Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:36:23.982Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:36:26.590Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:36:29.004Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:36:29.536Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-08T12:36:32.494Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-08T12:36:34.487Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-08T12:36:34.939Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:36:38.011Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:36:40.196Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:36:40.404Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:36:43.452Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:36:45.667Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T12:38:16.400Z] SELECT DISTINCT "branch name" FROM srifincredit_views.srifin_customer_master
+[2025-04-08T12:38:17.568Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T12:38:18.736Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T12:38:20.015Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:38:21.949Z] SELECT DISTINCT "branch name" FROM srifincredit_views.srifin_customer_master
+[2025-04-08T12:38:24.182Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T12:38:25.434Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:38:28.324Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T12:38:30.906Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:38:34.796Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T12:38:36.373Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:38:37.584Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T12:38:38.743Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T12:38:39.077Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T12:38:40.021Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:38:41.794Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:38:44.534Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T12:38:45.355Z] SELECT DISTINCT "Branch_ID", "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-08T12:38:45.501Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:38:48.111Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T12:38:49.266Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T12:38:49.938Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T12:38:50.799Z] SELECT DISTINCT "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-08T12:38:50.937Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:38:55.381Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T12:38:56.224Z] SELECT DISTINCT "Branch_ID", "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-08T12:38:56.409Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:38:59.826Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T12:39:01.843Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T12:39:01.923Z] SELECT DISTINCT "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-08T13:20:59.039Z] SELECT DISTINCT "branch name" FROM srifincredit_views.srifin_customer_master
+[2025-04-08T13:21:03.787Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T13:21:04.723Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T13:21:04.783Z] SELECT DISTINCT "branch name" FROM srifincredit_views.srifin_customer_master
+[2025-04-08T13:21:05.634Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:21:06.437Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T13:21:10.271Z] SELECT DISTINCT "branch name" FROM srifincredit_views.srifin_customer_master
+[2025-04-08T13:21:11.055Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:21:11.955Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T13:21:13.515Z] SELECT DISTINCT "Branch_ID", "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-08T13:21:14.494Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T13:21:15.227Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T13:21:15.824Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T13:21:16.540Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:21:17.511Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T13:21:18.961Z] SELECT DISTINCT "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-08T13:21:21.319Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T13:21:22.038Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:21:22.916Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-08T13:21:24.474Z] SELECT DISTINCT "branch name" FROM srifincredit_views.srifin_customer_master
+[2025-04-08T13:21:25.027Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T13:21:25.760Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T13:21:26.718Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T13:21:27.505Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:21:28.418Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T13:21:30.014Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T13:21:30.513Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T13:21:31.190Z] SELECT DISTINCT "Branch_ID", "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-08T13:21:32.231Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T13:21:32.922Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T13:21:33.912Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-08T13:21:35.951Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T13:21:36.644Z] SELECT DISTINCT "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-08T13:21:37.668Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:21:38.321Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T13:21:39.400Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T13:21:40.594Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T13:21:42.087Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T13:21:43.290Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:21:43.854Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T13:21:46.452Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T13:21:47.657Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T13:21:48.800Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:21:49.921Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-08T13:21:51.206Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T13:21:51.891Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:21:54.330Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:21:57.396Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:21:58.198Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T13:21:59.596Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:21:59.717Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:00.401Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T13:22:01.984Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T13:22:02.852Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:03.759Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T13:22:05.045Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:05.090Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:05.893Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T13:22:06.909Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T13:22:07.449Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:08.311Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:09.232Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-08T13:22:10.548Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:12.308Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T13:22:12.871Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:16.026Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:18.000Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T13:22:18.025Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-08T13:22:18.422Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:18.883Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:23.563Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-08T13:22:23.898Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:27.465Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:29.312Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:32.935Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:38.403Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:43.892Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T13:22:49.330Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:36:54.621Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:37:00.846Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:37:06.818Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:37:12.764Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:37:14.579Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:37:18.637Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:37:20.451Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:37:26.395Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:37:32.256Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:37:38.080Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:42:59.848Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:43:06.027Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:43:12.039Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:43:18.175Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:43:19.884Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:43:24.424Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:43:25.911Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:43:28.834Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:43:28.839Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:43:28.870Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:43:28.873Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:44:34.853Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:44:41.010Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:44:46.872Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:44:52.773Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:44:54.862Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:44:58.697Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:45:00.801Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:45:06.694Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:45:12.630Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:45:13.216Z] SELECT * FROM srifincredit_views.vw_srifin_employee_master_report WHERE 1=1 AND "ClusterID_Name" = 'C101-Uttar Pradesh- East' AND "RegionID_Name" = 'R101-Ayodhya' AND "AreaID_Name" = 'A107-Kushinagar' AND "BranchID_Name" = 'B103-Bahraich' AND "Employee_Status" = 'ACCEPTED'
+[2025-04-08T17:45:18.509Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:48:18.781Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:48:25.983Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:48:31.923Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:48:37.807Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:48:38.688Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:48:43.757Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:48:44.702Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:48:50.594Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:48:56.461Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-08T17:49:02.373Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:14:43.791Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:14:49.591Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:14:55.232Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:15:00.664Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:15:06.194Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:18:19.096Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:18:25.242Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:18:30.855Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:18:36.361Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:18:41.927Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:45:45.661Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:45:49.094Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T04:45:52.164Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:45:57.950Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:45:58.133Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:00.741Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T04:46:04.015Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:46:04.200Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:05.580Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:46:09.095Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T04:46:10.028Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:11.870Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T04:46:12.165Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:46:17.866Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:46:18.135Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:20.066Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T04:46:21.176Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:23.548Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:46:23.865Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:26.832Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:29.756Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:30.914Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T04:46:32.893Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:33.894Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:35.596Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:38.561Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:40.660Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:41.426Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:44.643Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:47.250Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:50.194Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:53.550Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:55.934Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:46:58.718Z] SELECT DISTINCT "Branch_ID", "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T04:46:59.583Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:47:01.229Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T04:47:02.808Z] SELECT DISTINCT "branch name" FROM srifincredit_views.srifin_customer_master
+[2025-04-09T04:47:04.324Z] SELECT DISTINCT "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T04:47:04.405Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T04:47:06.007Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T04:47:08.645Z] SELECT DISTINCT "branch name" FROM srifincredit_views.srifin_customer_master
+[2025-04-09T04:47:09.922Z] SELECT DISTINCT "Branch_ID", "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T04:47:10.020Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-09T04:47:11.839Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T04:47:11.942Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T04:47:15.621Z] SELECT DISTINCT "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T04:47:15.714Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T04:47:17.310Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T04:47:21.234Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T04:47:21.871Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T04:47:22.948Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T04:47:24.417Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T04:47:30.251Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-09T04:47:32.293Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T04:47:36.072Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T04:47:41.415Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:47:41.749Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T04:47:47.098Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:47:53.088Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:47:59.263Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:48:01.424Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:48:07.403Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:48:13.395Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:48:13.496Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:48:19.544Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:48:19.571Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:48:26.097Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:48:32.022Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:48:33.361Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:48:39.093Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:48:55.186Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:49:00.875Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T04:59:27.493Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:59:36.007Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:59:41.931Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:59:47.487Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:59:47.914Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:59:53.253Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:59:54.104Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T04:59:58.960Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T05:00:05.159Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T05:00:10.827Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T05:06:41.903Z] SELECT DISTINCT "branch name" FROM srifincredit_views.srifin_customer_master
+[2025-04-09T05:06:47.754Z] SELECT DISTINCT "branch name" FROM srifincredit_views.srifin_customer_master
+[2025-04-09T05:16:28.910Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T05:16:39.886Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T05:16:48.918Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T05:16:59.587Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T05:18:18.709Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:18:26.235Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:18:33.053Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:18:38.661Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:18:38.722Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:18:44.380Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:18:49.842Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:18:55.306Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:22:02.513Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T05:22:13.727Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T05:22:22.511Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T05:22:33.601Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T05:26:13.786Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T05:26:24.645Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T05:26:33.789Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T05:26:44.397Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T05:26:56.800Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T05:27:02.434Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T05:27:07.959Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T05:27:16.805Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T05:27:18.619Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T05:27:27.415Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T05:27:29.233Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T05:27:38.047Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T05:27:39.763Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T05:27:53.557Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T05:28:04.408Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T05:28:13.574Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T05:28:15.064Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T05:28:24.283Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T05:28:34.911Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T05:31:02.058Z] SELECT DISTINCT "Branch_ID", "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T05:31:07.790Z] SELECT DISTINCT "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T05:31:13.255Z] SELECT DISTINCT "Branch_ID", "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T05:31:18.770Z] SELECT DISTINCT "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T05:31:43.207Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T05:31:48.746Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T05:31:54.414Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T05:32:00.211Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T05:32:53.898Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T05:33:00.041Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T05:33:30.793Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T05:33:36.506Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T05:33:42.128Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T05:33:47.627Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T05:35:31.887Z] SELECT DISTINCT "Branch_ID", "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T05:35:37.987Z] SELECT DISTINCT "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T05:35:43.864Z] SELECT DISTINCT "Branch_ID", "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T05:35:48.880Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:35:49.420Z] SELECT DISTINCT "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T05:35:53.649Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T05:35:59.257Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-09T05:35:59.513Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:36:04.869Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T05:36:05.279Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:36:08.884Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:36:10.498Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T05:36:10.805Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:36:13.655Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T05:36:14.455Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:36:19.234Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-09T05:36:25.370Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T05:36:25.792Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:36:36.141Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T05:39:42.851Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-09'
+[2025-04-09T05:39:53.489Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-09' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2023-01-01' AND DATE '2025-04-03'
+[2025-04-09T05:40:31.567Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T05:43:00.045Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-09'
+[2025-04-09T05:43:11.102Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-09' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2023-01-01' AND DATE '2025-04-03'
+[2025-04-09T05:43:51.183Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-09'
+[2025-04-09T05:44:01.925Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-09' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2023-01-01' AND DATE '2025-04-03'
+[2025-04-09T05:45:16.375Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-09'
+[2025-04-09T05:45:27.196Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-09' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2023-01-01' AND DATE '2025-04-03'
+[2025-04-09T05:46:30.775Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-09'
+[2025-04-09T05:46:41.864Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-09' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2023-01-01' AND DATE '2025-04-04'
+[2025-04-09T05:48:05.883Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-09'
+[2025-04-09T05:48:16.564Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-09' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2023-01-01' AND DATE '2025-04-04'
+[2025-04-09T05:49:39.762Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-09'
+[2025-04-09T05:49:50.651Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-09' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2023-01-01' AND DATE '2025-04-08'
+[2025-04-09T05:52:01.722Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-09'
+[2025-04-09T05:52:12.520Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-09' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2023-01-01' AND DATE '2025-04-08'
+[2025-04-09T05:53:16.081Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-09'
+[2025-04-09T05:53:26.937Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-09' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2023-01-01' AND DATE '2025-04-08'
+[2025-04-09T05:53:51.384Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-09'
+[2025-04-09T05:54:07.164Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-09' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2023-01-01' AND DATE '2025-04-08'
+[2025-04-09T05:54:13.505Z] SELECT header, trail FROM srifincredit_views.vw_srifin_cic_report_types WHERE report_type='CRIF'
+[2025-04-09T05:55:17.963Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-05'
+[2025-04-09T05:55:28.435Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-05' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2023-01-01' AND DATE '2025-04-08'
+[2025-04-09T05:57:04.457Z] SELECT header, trail FROM srifincredit_views.vw_srifin_cic_report_types WHERE report_type='CRIF'
+[2025-04-09T05:58:06.261Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-05'
+[2025-04-09T05:58:16.850Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-05' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2023-01-01' AND DATE '2025-04-08'
+[2025-04-09T06:09:05.196Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-08'
+[2025-04-09T06:09:16.884Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-08' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2023-01-01' AND DATE '2025-04-09'
+[2025-04-09T06:12:18.889Z] SELECT header, trail FROM srifincredit_views.vw_srifin_cic_report_types WHERE report_type='Equifax'
+[2025-04-09T06:18:41.092Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-08'
+[2025-04-09T06:18:51.900Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-08' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2023-01-01' AND DATE '2025-04-09'
+[2025-04-09T06:21:22.317Z] SELECT header, trail FROM srifincredit_views.vw_srifin_cic_report_types WHERE report_type='Equifax'
+[2025-04-09T06:23:01.780Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-03'
+[2025-04-09T06:23:12.364Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-03' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2025-04-04' AND DATE '2025-04-01'
+[2025-04-09T06:23:18.146Z] SELECT header, trail FROM srifincredit_views.vw_srifin_cic_report_types WHERE report_type='Equifax'
+[2025-04-09T06:29:44.077Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-03'
+[2025-04-09T06:29:59.888Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-03' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2025-04-04' AND DATE '2025-04-01'
+[2025-04-09T06:30:10.524Z] SELECT header, trail FROM srifincredit_views.vw_srifin_cic_report_types WHERE report_type='Equifax'
+[2025-04-09T06:33:05.807Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-03'
+[2025-04-09T06:33:16.556Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-03' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2025-04-04' AND DATE '2025-04-01'
+[2025-04-09T06:33:22.249Z] SELECT header, trail FROM srifincredit_views.vw_srifin_cic_report_types WHERE report_type='Equifax'
+[2025-04-09T06:35:25.542Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-03'
+[2025-04-09T06:35:36.231Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-03' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2025-04-04' AND DATE '2025-04-01'
+[2025-04-09T06:35:41.866Z] SELECT header, trail FROM srifincredit_views.vw_srifin_cic_report_types WHERE report_type='Equifax'
+[2025-04-09T06:36:25.401Z] UPDATE srifincredit_views.srifin_loan_details_cutoffdate SET cutoff_date = DATE '2025-04-03'
+[2025-04-09T06:36:36.229Z] 
+    SELECT * FROM srifincredit_views.vw_cic_base_data 
+    WHERE CAST(cycledate AS DATE) = DATE '2025-04-03' 
+    AND CAST(disb_date AS DATE) BETWEEN DATE '2025-04-04' AND DATE '2025-04-01'
+[2025-04-09T06:36:41.805Z] SELECT header, trail FROM srifincredit_views.vw_srifin_cic_report_types WHERE report_type='Equifax'
+[2025-04-09T06:39:11.908Z] SELECT DISTINCT "branch name" FROM srifincredit_views.srifin_customer_master
+[2025-04-09T06:39:12.820Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T06:39:13.662Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T06:39:15.215Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T06:39:16.390Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T06:39:17.624Z] SELECT DISTINCT "branch name" FROM srifincredit_views.srifin_customer_master
+[2025-04-09T06:39:17.640Z] SELECT DISTINCT "Branch_ID", "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T06:39:21.916Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T06:39:23.162Z] SELECT DISTINCT "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T06:39:23.170Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T06:39:23.517Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T06:39:24.528Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T06:39:25.878Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T06:39:27.599Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T06:39:28.817Z] SELECT DISTINCT "Branch Name" FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T06:39:28.931Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T06:39:29.971Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T06:39:31.360Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T06:39:33.078Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-09T06:39:34.517Z] SELECT DISTINCT "Branch_ID", "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T06:39:34.537Z] SELECT DISTINCT app_status FROM srifincredit_views.srifin_loan_applications_standardised
+[2025-04-09T06:39:34.908Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T06:39:36.866Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T06:39:39.079Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T06:39:40.769Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T06:39:40.784Z] SELECT DISTINCT "BranchID_Name" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T06:39:40.942Z] SELECT DISTINCT "Branch", "Region" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T06:39:42.585Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T06:39:45.052Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T06:39:45.784Z] SELECT DISTINCT "region" FROM srifincredit_views.vw_preclosure_report
+[2025-04-09T06:39:46.320Z] SELECT DISTINCT "BranchID_Name", "AreaID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T06:39:48.434Z] SELECT DISTINCT "branch name", "region name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T06:39:50.692Z] SELECT DISTINCT "branch name", "region name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T06:39:51.519Z] SELECT DISTINCT "Credit_App_Status" FROM srifincredit_views.vw_process_credit_report
+[2025-04-09T06:39:51.668Z] SELECT DISTINCT "Region", "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T06:39:52.164Z] SELECT DISTINCT "AreaID_Name", "RegionID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T06:39:53.932Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T06:39:56.250Z] SELECT DISTINCT "region name", "cluster name" FROM srifincredit_views.vw_luc_report
+[2025-04-09T06:39:57.379Z] SELECT DISTINCT "Cluster" FROM srifincredit_views.vw_own_death_report
+[2025-04-09T06:39:57.752Z] SELECT DISTINCT "RegionID_Name", "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T06:40:01.725Z] SELECT DISTINCT "cluster name", "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T06:40:03.252Z] SELECT DISTINCT "ClusterID_Name" FROM srifincredit_views.vw_srifin_employee_master_report
+[2025-04-09T06:40:04.525Z] SELECT DISTINCT "cluster name", "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T06:40:08.210Z] SELECT DISTINCT "zone name" FROM  srifincredit_views.vw_luc_report
+[2025-04-09T06:40:10.485Z] SELECT DISTINCT "zone name" FROM srifincredit_views.srifin_loan_details
+[2025-04-09T06:40:14.302Z] SELECT DISTINCT "Employee_Status" FROM srifincredit_views.vw_srifin_employee_master_report
